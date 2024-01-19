@@ -2,6 +2,8 @@
 ### This is the official, public, organization for my YouTube channel!
 
 The Altie122 website is in this organization, as well as every video project on my channel.
+
+please DO NOT make PRs in any repos that does say that you can, all repos (other than the website) are under the MIT license but are not open to contibutions, please check README files!
 <!--
 
 **Here are some ideas to get you started:**
