@@ -3,7 +3,7 @@
 
 The Altie122 website is in this organization, as well as every video project on my channel.
 
-please DO NOT make PRs in any repos that does say that you can, all repos (other than the website) are under the MIT license but are not open to contibutions, please check README files!
+please DO NOT make PRs in any repos that doesn't say that you can, all repos (other than the website) are under the MIT license but are not open to contibutions, please check README files!
 
 I will also use this for most of my OSS
 <!--
